@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Algorithm Visualizer
 
 
@@ -46,3 +47,6 @@ Insert / Delete Number.
 <div>
   <img src="images/sorting.png" alt="Sorting visulization" width=48%/>
 </div>
+=======
+# Algorithm-Visualizer
+>>>>>>> f835fca0112a17af1f5d15353b210e512e4979a6
