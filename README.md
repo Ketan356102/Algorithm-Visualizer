@@ -2,9 +2,6 @@
 # Algorithm Visualizer
 
 
-View Algorithm Visualizer
-https://harshil-270.github.io/Algorithm-Visualizer/
-
 ### TODO
 
 - [ ] Add instructions in all visualizer to make it more user friendly.
